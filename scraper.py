@@ -22,6 +22,27 @@ productos = [
         "farmacity": "https://www.farmacity.com/aceite-solar-invisible-vichy-capital-soleil-cell-protect-spf-50-x-200-ml/p",
         "farmaplus": "https://www.farmaplus.com.ar/vichy-capital-soleil-oil-invisible-cell-protect-spf50-200ml/p"
     }
+    {
+        "nombre": "Caviahue Contorno de Ojos",
+        "farmacity": "https://www.farmacity.com/contorno-de-ojos-caviahue-vitamina-k3-x-15-g/p",
+        "farmaplus": "https://www.farmaplus.com.ar/caviahue-contorno-de-ojos-con-vitamina-k3-15-gr-barr/p"
+    }
+    {
+        "nombre": "Maybelline Rubor Líquido Face Sunkisser",
+        "farmacity": "https://www.farmacity.com/rubor-liquido-maybelline-sunkisser-mate-x-4-7-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/maybelline-rubor-liquido-sunkisser-matte-blush/p"
+    }
+    {
+        "nombre": "Isdin Fusion Water Magic",
+        "farmacity": "https://www.farmacity.com/protector-solar-facial-isdin-fotoprotector-fusion-water-magic-x-50-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/isdin-fusion-water-magic-fotoprotector-solar-fps50-50ml/p"
+    }
+    {
+        "nombre": "102 Magnesio Citrato Vitaminas Y Minerales Gummies 90 Unidades",
+        "farmacity": "https://www.farmacity.com/magnesio-102-gummies-x-90/p",
+        "farmaplus": "https://www.farmaplus.com.ar/102-magnesio-citrato-vitaminas-y-minerales-gummies-90-uds/p"
+    }
+
 ]
 
 headers = {
