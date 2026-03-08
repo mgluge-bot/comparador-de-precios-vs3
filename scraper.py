@@ -48,8 +48,31 @@ productos = [
         "farmacity": "https://www.farmacity.com/magnesio-102-gummies-x-90/p",
         "farmaplus": "https://www.farmaplus.com.ar/102-magnesio-citrato-vitaminas-y-minerales-gummies-90-uds/p",
         "selma": "https://selmadigital.com/p/102-magnesio-gummies-x90-gomitas/64339877-0c71-43b8-ac2a-81ac7594cbb4"
+    },
+    {
+        "nombre": "Serum Ojos Anti Ojeras Glycolic Bright L´Oreal Paris",
+        "farmacity": "https://www.farmacity.com/serum-ojos-loreal-glycolic-bright-x-20-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/serum-ojos-anti-ojeras-glycolic-bright-l-oreal-paris-20-ml/p",
+        "selma": None
+    },
+    {
+        "nombre": "Brillo Labial Voluminizador Maybelline Lifter Plump",
+        "farmacity": "https://www.farmacity.com/brillo-labial-maybelline-lifter-plump-x-5-4-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/brillo-labial-voluminizador-maybelline-lifter-plump/p",
+        "selma": None
+    },
+    {
+        "nombre": "L'oréal Paris Revitalift Sérum Ácido Hialurónico 30ml",
+        "farmacity": "https://www.farmacity.com/serum-rellenador-loreal-paris-revitalift-acido-hialuronico-x-30-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/loreal-paris-revitalift-serum-acido-hialuronico-30ml/p",
+        "selma": None
+    },
+    {
+        "nombre": "Agua Micelar Skin Active Con Ácido Salicílico 400ml",
+        "farmacity": "https://www.farmacity.com/agua-micelar-skin-garnier-con-acido-salicilico-x-400-ml/p",
+        "farmaplus": "https://www.farmaplus.com.ar/agua-micelar-garnier-skin-active-con-acido-salicilico-400ml/p",
+        "selma": None
     }
-
 ]
 
 headers = {
