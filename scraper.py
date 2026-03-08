@@ -96,16 +96,14 @@ def precio_selma(url):
 
     if url is None:
         return "NA", "NA"
-
     try:
         r = requests.get(url, headers=headers)
         soup = BeautifulSoup(r.text, "html.parser")
-        script = soup.find("script", {"type": "application/ld+json"})
-        data = json.loads(script.string)
-        precio = data["offers"]["price"]
+        # buscar precio visible
         texto = soup.get_text()
         precios = re.findall(r"\$\s?[\d\.]+", texto)
-        lista = precios[0] if len(precios) > 1 else "NA"
+        precio = precios[0] if len(precios) > 0 else "NA"
+        lista = precios[1] if len(precios) > 1 else "NA"
         return precio, lista
     except:
         return "NA", "NA"
