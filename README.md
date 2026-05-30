@@ -3,11 +3,11 @@
 ## Tecnologías
 
 - Python
-- Selenium
+- Requests
 - BeautifulSoup
 - Pandas
-- OpenPyXL
-
+- Selenium
+  
 ## Objetivo
 
 Automatizar la recolección de precios de productos farmacéuticos para facilitar análisis comparativos y monitoreo del mercado.
